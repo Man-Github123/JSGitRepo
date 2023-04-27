@@ -1,2 +1,5 @@
 demo3 is modified
+<<<<<<< HEAD
 ammended law of India
+=======
+>>>>>>> 0cf74e42b779eacb4b5d00d8f070b0eea2627bbb
