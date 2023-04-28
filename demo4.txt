@@ -1,2 +1,6 @@
 Demo4 file in branch b1
+<<<<<<< HEAD
 added line from hf branch in demo4 file
+=======
+added line from is537 branch in demo4 file
+>>>>>>> is537
